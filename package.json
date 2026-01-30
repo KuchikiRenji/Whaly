@@ -1,7 +1,7 @@
 {
   "name": "Whaly",
   "version": "0.0.2",
-  "description": "Whaly but rewritten with love :)",
+  "description": "Free open-source Discord music bot — play YouTube, Spotify, Deezer & Apple Music with Lavalink and Discord.js v14",
   "main": "index.js",
   "scripts": {
     "dev": "ts-node ./src/runtime.ts",
